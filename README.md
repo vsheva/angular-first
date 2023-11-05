@@ -1,14 +1,12 @@
-Task: 
-        <li>Add A button which says 'Display Details'</li>
-        <li>Add a paragraph with any content of your choice (e.g. 'Secret Password = tuna')</li>
-        <li>Toggle the displaying of that paragraph with the button created in the first step</li>
-        <li>Log all button clicks in an array and output that array below the secret paragraph (maybe log a timestamp or
+## Task: 
+        - Add A button which says 
+        - Add a paragraph with any content of your choice 
+        - Toggle the displaying of that paragraph with the button created in the first step
+        - Log all button clicks in an array and output that array below the secret paragraph (maybe log a timestamp or
           simply an incrementing number)
-        </li>
-        <li>Starting at the 5th log item, give all future log items a blue background (via ngStyle) and white color
+        - Starting at the 7th log item, give all future log items a  background (via ngStyle) and other color
           (ngClass)
-        </li>
-
+        
 
 
 # MyProject
