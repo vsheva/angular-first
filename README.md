@@ -4,7 +4,7 @@
         - Toggle the displaying of that paragraph with the button created in the first step
         - Log all button clicks in an array and output that array below the secret paragraph (maybe log a timestamp or
           simply an incrementing number)
-        - Starting at the 7th log item, give all future log items a  background (via ngStyle) and other color
+        - Starting at the 7th log item, give all future log items a  background (via ngStyle) and color
           (ngClass)
         
 
