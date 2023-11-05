@@ -7,7 +7,7 @@ import {Component} from '@angular/core';
 })
 export class AppComponent {
   showContent = false;
-  log = [1];
+  log = [];
 
   onToggle() {
     this.showContent = !this.showContent;
