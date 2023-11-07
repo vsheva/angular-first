@@ -1,6 +1,6 @@
 ## Task: 
-        - Add A button with name of your choise
-        - Add a paragraph with any content of your choice 
+        - Add A button with name
+        - Add a paragraph with any content  
         - Toggle the displaying of that paragraph with the button created in the first step
         - Log all button clicks in an array and output that array below the secret paragraph 
           (maybe log a timestamp or simply an incrementing number)
